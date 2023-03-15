@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="147px" height="395px" viewBox="0 0 147 395" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>device</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="device" transform="translate(2.000000, 2.000000)" stroke="#3D457B">
+            <path d="M0,391 L0,0 L143,0 L143,391 L136.1,391 L124.716,353.006 C124.296,350.831 121.159,349.744 115.304,349.744 L23.944,349.744 C20.939,349.622 19.051,351.08 18.28,354.119 C17.51,357.159 13.795,369.452 7.136,391 L0,391 Z" id="Path" stroke-width="3.493"></path>
+            <path d="M13.288,10.259 L129.83,10.259 C132.642,10.202 134.047,11.696 134.047,14.742 C134.047,17.787 134.138,88.904 134.32,228.092 C134.217,230.716 132.72,232.028 129.83,232.028 L13.913,232.028 C10.59,232.178 8.929,230.27 8.929,226.302 L8.929,14.742 C8.702,11.753 9.92,10.259 12.584,10.259 L12.953,10.259 M143,337.798 L0,337.798 M0,244.215 L143,244.215" id="Shape" stroke-width="1.746"></path>
+            <path d="M68.923,337.715 L68.923,244.025 M74.077,244.215 L74.077,337.553" id="Shape" stroke-width="1.164"></path>
+        </g>
+    </g>
+</svg>
